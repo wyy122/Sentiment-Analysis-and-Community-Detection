@@ -1,4 +1,4 @@
-<div align="center" style="font-weight: bold; font-size: 45px;">观点挖掘及社区发现实战</div>
+# 观点挖掘及社区发现实战
 
 
 
