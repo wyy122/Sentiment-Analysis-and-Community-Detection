@@ -1,10 +1,14 @@
 <div align="center" style="font-weight: bold; font-size: 45px;">观点挖掘及社区发现实战</div>
 
 
+
+
 **参考**
 
 1. https://blog.csdn.net/m0_73689378/article/details/142344230?spm=1001.2014.3001.5506
 2. https://github.com/qinyuenlp/CommunityDetection
+
+
 
 
 # 一、观点挖掘
